@@ -1,1 +1,2 @@
 # Belajar-OOP-Object-Oriented-Programming-
+Repo ini berisi contoh sederhana implementasi Object-Oriented Programming (OOP) di Python, meliputi konsep Encapsulation (penyembunyian atribut password), Inheritance (kelas `admin` mewarisi `user`), dan Polymorphism (override metode `notification()`). Terdapat antarmuka CLI untuk melakukan input username, password, dan role, serta demonstrasi cara menampilkan data dengan aman. Cocok bagi pemula yang ingin mempelajari dan memahami dasar OOP.
